@@ -1,6 +1,6 @@
 I don't really feel like updating this properly, but this is just the global thing for all of my mods. If you have an issue with any of my mods, please report it here. Also ignore the screenshots, they're prototypes of my first moon and I think it is neat to look at them and my current work. I have a soft spot for those pictures. Thank you and have a good day.
 
-MODS THAT HAVE VR SUPPORT
+# MODS THAT HAVE VR SUPPORT
 
 
 
@@ -16,7 +16,7 @@ Generic Equipment (Sledgehammer uses a custom script so functionality is unknown
 
 Manul Sheet
 
-Not Supported
+# Not Supported
 
 
 
