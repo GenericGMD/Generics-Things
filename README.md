@@ -2,8 +2,6 @@ I don't really feel like updating this properly, but this is just the global thi
 
 # MODS THAT HAVE VR SUPPORT
 
-
-
 Generic Interiors (Crowbar and Single shotgun use a custom script so functionality is unknown)
 
 Generic Scraps (Sledgehammer and Lockpick use a custom script so functionality is unknown)
@@ -18,13 +16,11 @@ Manul Sheet
 
 # Not Supported
 
-
-
 Generic Moons
 
 Generic Moons singular uploads
 
-Don't know
+# Don't know
 
 Rapture Weather
 
