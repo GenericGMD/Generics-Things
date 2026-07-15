@@ -14,11 +14,13 @@ Generic Equipment (Sledgehammer uses a custom script so functionality is unknown
 
 Manul Sheet
 
-# Not Supported
-
 Generic Moons
 
-Generic Moons singular uploads
+GC Cordillera
+
+# Not Supported
+
+Generic Moons singular uploads (Not including Cordillera)
 
 # Don't know
 
